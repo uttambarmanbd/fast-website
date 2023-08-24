@@ -1,8 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 *{
     margin: 0;
     padding: 0;
 
 }
 h1{
-    background-color: rgb(226, 129, 1);
+    font-size: 50px;
 }
+.name-highlight{
+    color:rgb(228, 42, 10);
+}
+#name-h{
+    color: orange;
+}
+.haf-with{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 0.5%;
+}
+.haf-with img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightsalmon,tomato);
+    padding: 2px 20px;
+    border-radius: 10px;
+    color: #fff;
+    font-weight: 700px;
+    
+}
+/* .top-banner{
+
+} */
+
+/* h1{
+    width: 250px;
+    background-color: rgb(238, 208, 168);
+} */
